@@ -42,6 +42,10 @@ The instructions was ambiguious with the data collection method,  this group had
 
 (Cat API)
 
+
+![cat image](https://editor.p5js.org/nrid934/full/4r3r1iOOy)
+
+
 <iframe
   src="https://editor.p5js.org/nrid934/full/4r3r1iOOy"
   width="400"
