@@ -6,47 +6,13 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Review and Reflect
+The experiment which I enjoyed the most was the random cat image experiement using a cat API. I liked the random nature of the experiment and how it allowed users to control when something new would appear. The humourous nature and the relation to cats had also intruiged me as I tend to take that direction when it comes to design and videography. When it comes to data representation, I would potentially like to explore the datafication of everyday life or data physicalisation. What interests me is perhaps portraying something seemingly normalised represented in a way which informs the audience about its implications through data.
 
-Which experiments did you enjoy?
+My practice work mostly aligned with the content from class as I used the same applications and theory to create the experiments. However, it did not align when there was a use of AI, I find that AI may make tasks too easy for people too often, and that they maybe begin to rely on AI for basic tasks and slowly lose skills of critical thinking. If I could avoid AI usage, I would try to use programs which relied on human input and curation instead of everything on the internet.
 
+I would be interested in exploring the public issue of overpopulation of cats in New Zealand. When cats were introduced to Aotearoa, they quickly begun preying on native animals like birds and lizards. What could be one of the more practical and humane ways of resolving this solution is by potentially spaying and neutering all cats.
 
-What aspects did you find interesting and meaningful?
+A potential future scenario for this issue could be a stray cat tracker. This could possibly inform community members of stray cats in the area, who has fed them (if any) and whether they leave to hunt native species. This could also benefit the safety and wellbeing of the cats themselves too. Another addition to the idea is to perhaps have trackers or analysers to determine if a cat needs to be desexed or not. Ideally, this dataa would be live, real data collected through images and time stamps to more easily identify which cats may require treatment. However, if no pre-existing data source is found that even partially meets the requirements, it may be a simulated form of data. The data would be interpreted in such a way to allow rescuers to catch and preform spays/neuters onto the cats and aim to minimise the cat from being able to make unfavourable impacts upon Aotearoa.
 
-
-Which ideas about data representation would you like to explore further (e.g. data humanism, data sovereignty, data feminism, the datafication of everyday life, data physicalisation, surveillance)?
-
-
-How did your practical work align with (or challenge) ideas discussed in class and in the course readings?
-
-
-Which ideas and approaches will you carry forward?
-Extract key reflections from your notes and provide a concise statement about how the experiments inform your direction for the project.
-
-## Thematic Focus and Data Source(s)
-
-Describe a specific human experience, social phenomenon, or public issue that you would like to explore (e.g. habits, friendship, public transport, local histories, hidden labour behind AI).
-
-
-Articulate a plausible future scenario related to your chosen subject (e.g. automated habit-tracking for health insurance, ubiquitous AI companions, gamified commuter carbon allowances, crowdsourced memory-mapping, transparent labour practices for AI).
-
-
-Identify potential data source(s). Does the data exist already, or does it need to be collected? Is the data static or live? Is it real or simulated?
-
-
-How will the data be interpreted? What might your project reveal about life within the future scenario?
-
-
-How does your project relate to ideas about data representation that you have encountered in the course?
-
-
-Use these points to describe the context of your project. Explain how your chosen subject relates to the data you will use, and how your approach will offer meaningful insights. Consider the feasibility of the methods you intend to use. Remember this is a proposal: your project will evolve over the coming weeks through iterative experimentation and development.
-
-
-
-## Visualisation & Impact
-
-What might it look like? How might it work?
-What is the provocation of your data-driven visualisation? What do you want a public audience to experience and/or understand?
-How do you want your audience to respond? This could be a shift in perspective (seeing something differently), or specific actions (doing something, behaving differently).
-Use these points to describe your proposed data-driven visualisation and outline the intended impact of your work. Again, remember this is a proposal: the focus here should be a creative vision for a potential visualisation and its impact, rather than a fully preconceived outcome.
+Perhaps the application could have one side represent the map of New Zealand and the other side have images appear of cats whi appear in need of being desexed, along with their location in Aotearoa. 
+I would like the public audience to realise the complexities of this issue and its prevalence in New Zealand. I would like my audience to respond by changning their perspective in the impacts of stray cats, and perhaps what method could be used to enjoy the company of cats without comprimising on the environment and its species.
