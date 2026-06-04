@@ -7,8 +7,17 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
+My initial idea was to create a project which showcased the process in which a cat would go through if it were experiencing the stages of TNR (trap, neuter, return). However this was found to eb impractical as it did not fit a dataset that I was looking at.
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Concept sketches
+
+
+Making sprint
+
+
+
+
+What if variations
 
 ## Images & Media
 
@@ -17,7 +26,7 @@ layout: default
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+
 
 ## AI Usage Statement
 

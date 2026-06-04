@@ -8,7 +8,19 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Recieving feedback from the proposal
+
+
+Looking at potential data sources
+
+
+Visual References
+
+
+Project planning and skills roadmap
+
+
+Concept sketch
 
 ## Images & Media
 

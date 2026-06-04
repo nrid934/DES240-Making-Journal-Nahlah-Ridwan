@@ -8,7 +8,23 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Xeno Computer Task on Miro
+
+
+Drafting With NotebookLM
+
+Evaluating the AI result
+
+
+Consulting with a peer
+
+
+Making sprint
+
+
+Round Robin Rapid Reactions
+
+
 
 ## Images & Media
 
@@ -22,3 +38,5 @@ layout: default
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+Use of NotebookLM

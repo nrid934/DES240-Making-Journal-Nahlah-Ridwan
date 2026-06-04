@@ -8,7 +8,10 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+This week I was unable to attend class as I had my braces removed and shortly after I had to prepare for one of my best friend's weddings for that weekend.
+
+Making of the final artefact:
+
 
 ## Images & Media
 

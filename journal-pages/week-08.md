@@ -15,7 +15,7 @@ During class we had formed groups and completed progress reports. Each report la
 
 [Link to Slideshow](<../assets/week-08/DES240 - 5 Minute Presentation.pdf>)
 
-Feedback recieved from peers:
+Feedback recieved from classmates:
 - You could show what is fun about cats
 - You could use a cat meme dataset
 - Maybe aim to go for a dataset that triggers something within you
@@ -30,6 +30,10 @@ Through this class time and activity, I found that I was quite behind compared t
 
 
 Critical Design Propositions
+
+
+Reflective Summary
+
 
 ## Images & Media
 
