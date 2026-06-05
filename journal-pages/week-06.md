@@ -22,6 +22,4 @@ I thought of creating a visualisation which would show a scenario of a cat going
 
 ### Project planning and skills roadmap
 
-- 
-
-### Concept sketch
+As I get passionate when it comes to making pjhysical prototypes, I found that I wanted to make a physical representation of the data that I was interested in. Thus I planned to make a physical prototype for my final submission.
