@@ -6,25 +6,23 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Tian's Lesson! 
 
-Tian's Lesson!
+### Progress Reports using Padlet
 
-Progress Reports
+We formed groups and completed progress reports, this time using 'Padlet' as a tool to provide feedback.
 
-Padlet
+The link to my slideshow is below:
+https://canva.link/aix3cs9jdogae9e
 
-Action Plan
+Below shows an image of my group in the main class Padlet board.
+![alt text](<../assets/week-10/Screenshot 2026-06-05 234300.png>)
 
-## Images & Media
+The image below shows my section of the group feedback padlet.
+![alt text](<../assets/week-10/Screenshot 2026-06-05 234309.png>)
 
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+### Action Plan
+- Explore materials further
+- Revise future scenario
+- Revise aims for impact both through seeing the outcome and afterwards
+- Plan for making the prototype

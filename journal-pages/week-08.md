@@ -25,6 +25,24 @@ Feedback recieved from classmates:
 #### My own reflection:
 Through this class time and activity, I found that I was quite behind compared to my peers. I had yet to finalise a dataset that I wanted to use whereas they had. My peers already began thinking of ideas to display the data whereas I only had a rough idea of how I wanted to make a physical prototype.
 
+From here I was able to finalise my source of data through Science Direct.
+
+APA Reference:
+
+Aguilar, G. D., & Farnworth, M. J. (2012). *Stray cats in Auckland, New Zealand: Discovering geographic information for exploratory spatial analysis*. Science Direct. https://www.sciencedirect.com/science/article/pii/S0143622811002347 
+
+General information:
+
+Glenn D. Aguilar, Mark J. Farnworth,
+Stray cats in Auckland, New Zealand: Discovering geographic information for exploratory spatial analysis,
+Applied Geography,
+Volume 34,
+2012,
+Pages 230-238,
+ISSN 0143-6228,
+https://doi.org/10.1016/j.apgeog.2011.11.011.
+(https://www.sciencedirect.com/science/article/pii/S0143622811002347)
+
 
 ### Critical Design Propositions
 

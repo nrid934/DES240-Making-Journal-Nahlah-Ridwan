@@ -84,3 +84,6 @@ I looked into these pom poms from Spotlight. The sizings were different and I wa
 
 ![alt text](<../assets/week-11/Screenshot 2026-06-05 211329.png>)
 *When the product was completed in terms of assembly, I wiped the acrylic cleaner with alcohol and cleaning wipes to attempt removing finger prints and streaks.*
+
+### References
+Aguilar, G. D., & Farnworth, M. J. (2012). *Stray cats in Auckland, New Zealand: Discovering geographic information for exploratory spatial analysis*. Science Direct. https://www.sciencedirect.com/science/article/pii/S0143622811002347 
