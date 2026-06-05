@@ -6,31 +6,22 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+### Feedback from the proposal
 
-Recieving feedback from the proposal
+I was given feedback from Tian about my proposal consultation which caused the initial shift in direction for my project. At the start during the consultation, I wanted to make an application which could potentially be used by rescues to track and monitor stray cats. Given the scope and complexity of this idea, Tian suggested that this was likely unrealistic for me to execute in around 5 weeks. She suggested that I could look into one aspect of rescue more specifically. 
 
+I thought of creating a visualisation which would show a scenario of a cat going through the TNR (Trap, Neuter, Return) process. 
 
-Looking at potential data sources
+### Exploring potential data sources
 
+- Overpopulation of cats
+- Highest rate of rescue practices (eg TNR)
+- Spatial opoulation of cats in New Zealand
+- Data from SPCA?
+- Made up or collected data?
 
-Visual References
+### Project planning and skills roadmap
 
+- 
 
-Project planning and skills roadmap
-
-
-Concept sketch
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+### Concept sketch
